@@ -1,0 +1,1 @@
+#SBATCH --export=ALL,LNM=/grphome/fslg_lnm/nobackup/archive/analysis_updated,analysis_name=OCD,lesion_folder=/grphome/grp_lnm/nobackup/autodelete/LesionBank/OCD,home_folder=/grphome/grp_lnm/nobackup/autodelete/Results,data=/grphome/fslg_lnm/nobackup/archive/HumanConnectome/GSP1000,TemplateImage=/grphome/fslg_lnm/nobackup/archive/analysis_updated/Template/template_images0000.nii
